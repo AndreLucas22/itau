@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BA22B2C6-9291-411E-9C48-1073D404200A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28D34D95-6FF8-47D6-B835-05CC5BD4DC95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "itau/JavaPop/JavaRepoPopController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8E9E0E1-158C-4FEC-A96A-4093F4C8C7D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "itau/PR/PRUseCases.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getListPR(criadorRep:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6817D68-5B62-40C7-A907-27FC56CB5405"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "itau/PR/PRUseCases.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getListPR(criadorRep:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6817D68-5B62-40C7-A907-27FC56CB5405 - 48b961ca571d5980"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;itau.PRModelElement&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (RxSwift.AnyObserver&lt;Swift.Array&lt;itau.PRModelElement&gt;&gt;) -&gt; RxSwift.Disposable in itau.PRUseCasesImpl.getListPR(criadorRep: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;itau.PRModelElement&gt;&gt;"
+                  moduleName = "itau"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usuario/itau/itau/PR/PRUseCases.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "253">
+               </Location>
+               <Location
+                  uuid = "B6817D68-5B62-40C7-A907-27FC56CB5405 - 48b961ca571d5980"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;itau.PRModelElement&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (RxSwift.AnyObserver&lt;Swift.Array&lt;itau.PRModelElement&gt;&gt;) -&gt; RxSwift.Disposable in itau.PRUseCasesImpl.getListPR(criadorRep: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;itau.PRModelElement&gt;&gt;"
+                  moduleName = "itau"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usuario/itau/itau/PR/PRUseCases.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07174557-D3BB-4EC0-8E5B-87539B892842"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "itau/PR/PRUseCases.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getListPR(criadorRep:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1C2C466-6AF3-4359-82F5-C5F9E7E968A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "itau/PR/View/Cell/PRViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "setupInfos(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46E8E681-DD8F-4322-8349-DD8E6E290B18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "itauTests/PR/ViewModel/PRViewModelSpec.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "spec()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
